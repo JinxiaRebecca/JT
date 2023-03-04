@@ -11,6 +11,7 @@
 	<modules>
 		<module>dingdang-goods</module>
 		<module>renren-fast</module>
+		<module>dingdang-common</module>
 	</modules>
 
 </project>
